@@ -1,4 +1,3 @@
-This is my $$$ype  - live:.cid.6a2f88bacefc6a02
 
 # Getting Started with Create React App
 
