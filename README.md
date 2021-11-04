@@ -2,6 +2,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my $ |< ype  - live:.cid.6a2f88bacefc6a02
+Could you contact me, please?
 
 <!-- ## Available Scripts
 
